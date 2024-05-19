@@ -1,6 +1,6 @@
 Merhaba 
 Bu oyun GameMarker ile yaratılmıştır.Oyun Premium ve Free özelliğe sahiptir.Aylık Premium 20.00 TL'dir.
-Yazılım hakkı:GameMrker
+Yazılım hakkı:GameMarker
 Telif Hakkı: 2024.Efe Game INC.
 Yayınlama:GitHub
 
